@@ -1,4 +1,4 @@
-# OSSBA
+# OS-SBA
 Simulation Based Assignment
 
 Simulation of following example using Preemptive Shortest Job First Algorithm in C programmin language:
